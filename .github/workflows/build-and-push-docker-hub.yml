@@ -30,7 +30,8 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ducable16/ci-cd:staging2
+          tags: ducable16/cicd_test
+
 
 
   pull-and-up:
